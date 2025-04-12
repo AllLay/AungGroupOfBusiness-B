@@ -1,13 +1,28 @@
 [
     {
         "id": 1,
-        "name": "IEE",
+        "name": "𝙀𝙨𝙘𝙖𝙥𝙚 𝙁𝙧𝙤𝙢 𝙈𝙖𝙩𝙧𝙞𝙭",
         "owner": "thefoolsstudio3@gmail.com",
+        "contact": "Telegram: @slim_ernest",
         "variations": [
-            { "id": 1, "name": "IEE-1", "price": 10000, "image": "/main/image/product/logo.png" },
-            { "id": 2, "name": "IEE-2", "price": 25000, "image": "/main/image/product/logo.png" },
-            { "id": 3, "name": "IEE-3", "price": 35000, "image": "/main/image/product/logo.png" },
-            { "id": 4, "name": "IEE-4", "price": 65000, "image": "/main/image/product/logo.png" }
+            { "id": 1, "name": "S", "price": 0, "currency": "MMK", "image": "/main/image/product/mine/Escape-From_Matrix.png" },
+            { "id": 2, "name": "M", "price": 45000, "currency": "MMK", "image": "/main/image/product/mine/Escape-From_Matrix.png" },
+            { "id": 3, "name": "L", "price": 0, "currency": "MMK", "image": "/main/image/product/mine/Escape-From_Matrix.png" },
+            { "id": 4, "name": "XL", "price": 0, "currency": "MMK", "image": "/main/image/product/mine/Escape-From_Matrix.png" },
+            { "id": 5, "name": "2XL", "price": 0, "currency": "MMK", "image": "/main/image/product/mine/Escape-From_Matrix.png" }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "𝗙𝗶𝗿𝘀𝘁 𝗗𝗿𝗼𝗽 𝗢𝗳 𝗧𝗵𝗲 𝗬𝗲𝗮𝗿",
+        "owner": "thefoolsstudio3@gmail.com",
+        "contact": "Telegram: @slim_ernest",
+        "variations": [
+            { "id": 1, "name": "S", "price": 0, "currency": "MMK", "image": "/main/image/product/mine/First-Drop-of-The-Year.png" },
+            { "id": 2, "name": "M", "price": 45000, "currency": "MMK", "image": "/main/image/product/mine/First-Drop-of-The-Year.png" },
+            { "id": 3, "name": "L", "price": 0, "currency": "MMK", "image": "/main/image/product/mine/First-Drop-of-The-Year.png" },
+            { "id": 4, "name": "XL", "price": 0, "currency": "MMK", "image": "/main/image/product/mine/First-Drop-of-The-Year.png" },
+            { "id": 5, "name": "XXL", "price": 0, "currency": "MMK", "image": "/main/image/product/mine/First-Drop-of-The-Year.png" }
         ]
     }
 ]
